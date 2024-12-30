@@ -7,3 +7,4 @@ Notebook sorts a folder full of random images into their respective folders of t
 Credits:
 SVM Classifier was taken from the following repository.
 https://github.com/ageitgey/face_recognition/blob/master/examples/face_recognition_svm.py 
+# Face-demo
