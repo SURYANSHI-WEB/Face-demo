@@ -8,3 +8,4 @@ Credits:
 SVM Classifier was taken from the following repository.
 https://github.com/ageitgey/face_recognition/blob/master/examples/face_recognition_svm.py 
 # Face-demo
+# Face-demo
